@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Model checkpoints (too large for GitHub)
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# IDE
+.vscode/
+.idea/
